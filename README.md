@@ -20,7 +20,7 @@ Set work duration, break duration, and cycle count. Start, pause, resume, or res
 
 ## Slot
 
-Add tasks with assigned dates, durations, deadlines, and priorities. Slot automatically updates schedules when tasks, deadlines, commitments, or availability change. Day and Week views show the current plan; there is no Generate or Push Tomorrow step.
+Use **Quick add** on the Day view for a timed task: enter its name and minutes, then choose **Add task**. Choose **Options** for checklist blocks, deadlines, weekly repeats, single-block sessions, priorities, energy, and chunk limits. Use the date arrows to move through days or weeks. Slot automatically updates schedules when tasks, deadlines, commitments, or availability change; there is no Generate or Push Tomorrow step.
 
 Use **Edit** or **Delete** on tasks in the day schedule, Week previews, Tasks, Upcoming, or skipped history. The editor includes name, type, date, duration, deadline, priority, energy, single-block preference, chunk limits, and checklist contents/checkmarks. Saving recalculates schedules and keeps your selected date and view. Completed work retains its original times and labels; duration cannot fall below completed minutes, and increasing a completed task's duration reopens it. Deleted tasks go to **Tasks → Trash** and can be restored.
 
@@ -64,7 +64,7 @@ The workspace fills the browser window with square edges, no outer frame or redu
 
 ## Validation
 
-Open `Ensuite.html` in a modern browser. Check all four tabs and `Alt+1` through `Alt+4`; create and review a flashcard, complete a habit, add a planner task, and start/pause/reset the focus timer. Check a narrow window and reload to verify saved data. In Focus settings, upload an image, restore the original painting, and switch Scene off/on.
+Open `Ensuite.html` in a modern browser. Check all four tabs and `Alt+1` through `Alt+4`; create and review a flashcard, complete a habit, use Slot's quick add and Options dialog, and start/pause/reset the focus timer. Check a narrow window and reload to verify saved data. In Focus settings, upload an image, restore the original painting, and switch Scene off/on.
 
 ## Font license
 
